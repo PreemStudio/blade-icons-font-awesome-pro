@@ -1,8 +1,8 @@
 # Font Awesome Pro
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/preemstudio/blade-icons-font-awesome-pro.svg?style=flat-square)](https://packagist.org/packages/preemstudio/blade-icons-font-awesome-pro)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-font-awesome-pro/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/preemstudio/blade-icons-font-awesome-pro/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-font-awesome-pro/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/preemstudio/blade-icons-font-awesome-pro/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-font-awesome-pro/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/PreemStudio/blade-icons-font-awesome-pro/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/preemstudio/blade-icons-font-awesome-pro/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/PreemStudio/blade-icons-font-awesome-pro/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/preemstudio/blade-icons-font-awesome-pro.svg?style=flat-square)](https://packagist.org/packages/preemstudio/blade-icons-font-awesome-pro)
 
 A package to easily make use of [Font Awesome Pro](https://fontawesome.com/) with Laravel Blade Icons.
@@ -15,15 +15,12 @@ You can install the package via composer:
 composer require preemstudio/blade-icons-font-awesome-pro
 ```
 
-You can publish the config file with:
-
-```bash
-php artisan vendor:publish --tag=blade-icons-font-awesome-pro-config
-```
-
 ## Usage
 
-This package utilizes Blade Icons under the hood. For additional functionality, please refer to the [Blade Icons README](https://github.com/PreemStudio/blade-icons). The prefix for all icons in this package is `font-awesome-pro`, with specific sets available as `font-awesome-pro-brands`, `font-awesome-pro-duotone`, `font-awesome-pro-light`, `font-awesome-pro-regular`, `font-awesome-pro-sharp-light`, `font-awesome-pro-sharp-regular`, `font-awesome-pro-sharp-solid`, `font-awesome-pro-solid` and `font-awesome-pro-thin`.
+> **Note**
+> Please refer to the [Blade Icons](https://github.com/PreemStudio/blade-icons) documentation for more information on how to use this package.
+
+The prefix for all icon families in this package is `font-awesome-pro`. Please refer to the [resources/svg](/resources/svg) directory for a list of available styles.
 
 ## Testing
 
