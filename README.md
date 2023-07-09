@@ -1,23 +1,3 @@
-<p align="center">
-    <a href="https://bombenprodukt.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/faustbrian/assets/main/logo-text.svg" width="128" alt="BombenProdukt Logo" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-font-awesome-pro/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-font-awesome-pro" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-font-awesome-pro">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-font-awesome-pro" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-font-awesome-pro">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-font-awesome-pro" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-font-awesome-pro">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-font-awesome-pro" alt="License" />
-    </a>
-</p>
 
 ## About Font Awesome Pro
 
